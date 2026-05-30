@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "ESP32 Development Board",
+        "category": "متحكمات",
+        "price": 1500,
+        "status": "متوفر"
+    },
+    {
+        "id": 2,
+        "name": "Arduino Nano",
+        "category": "متحكمات",
+        "price": 850,
+        "status": "متوفر"
+    },
+    {
+        "id": 3,
+        "name": "HC-SR04 Ultrasonic Sensor",
+        "category": "حساسات",
+        "price": 300,
+        "status": "كمية محدودة"
+    },
+    {
+        "id": 4,
+        "name": "Relay Module 2 Channel",
+        "category": "وحدات تحكم",
+        "price": 450,
+        "status": "غير متوفر"
+    }
+]
