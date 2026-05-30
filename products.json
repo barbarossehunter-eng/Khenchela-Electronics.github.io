@@ -1,37 +1,65 @@
 [
     {
         "id": 1,
-        "name": "ESP32 Development Board",
+        "name": "ESP32 devkit 30 Pin",
         "category": "متحكمات",
-        "price": 1500,
+        "price": 1700,
         "status": "متوفر"
     },
     {
         "id": 2,
-        "name": "Arduino Nano",
+        "name": "ESP32 devkit 38 Pin",
         "category": "متحكمات",
-        "price": 850,
+        "price": 1800,
         "status": "متوفر"
     },
     {
         "id": 3,
-        "name": "HC-SR04 Ultrasonic Sensor",
+        "name": "ESP32 C3 mini",
         "category": "حساسات",
-        "price": 300,
+        "price": 1100,
         "status": "كمية محدودة"
     },
     {
         "id": 4,
-        "name": "Relay Module 2 Channel",
+        "name": "ESP32 S3 N16R8",
         "category": "وحدات تحكم",
-        "price": 450,
+        "price": 2300,
         "status": "غير متوفر"
     },
     {
     "id": 5,
-    "name": "محرك سيرفو SG90",
+    "name": "ESP32 C5",
     "category": "محركات",
-    "price": 450,
+    "price": 2750,
     "status": "متوفر"
-     }
+     },
+    {
+        "id": 6,
+        "name": "ESP32 S3 mini",
+        "category": "متحكمات",
+        "price": 1300,
+        "status": "متوفر"
+    },
+    {
+        "id": 7,
+        "name": "ESP32 WROOM 32D",
+        "category": "متحكمات",
+        "price": 1800,
+        "status": "متوفر"
+    },
+    {
+        "id": 8,
+        "name": "ESP32 CAM KIT",
+        "category": "حساسات",
+        "price": 2900,
+        "status": "كمية محدودة"
+    },
+    {
+        "id": 9,
+        "name": "ESP-01S",
+        "category": "وحدات تحكم",
+        "price": 600,
+        "status": "غير متوفر"
+    }
 ]
