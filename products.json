@@ -61,5 +61,68 @@
         "category": "Microcontrollers & Dev Boards",
         "price": 600,
         "status": "غير متوفر"
+    },
+    {
+        "id": 10,
+        "name": "ARDUINO UNO R3 SMD",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 1500,
+        "status": "متوفر"
+    },
+    {
+        "id": 11,
+        "name": "ARDUINO UNO R3 DIP",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 2100,
+        "status": "متوفر"
+    },
+    {
+        "id": 12,
+        "name": "ARDUINO NANO",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 1200,
+        "status": "كمية محدودة"
+    },
+    {
+        "id": 13,
+        "name": "ARDUINO MEGA 2560",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 3700,
+        "status": "غير متوفر"
+    },
+    {
+    "id": 14,
+    "name": "ARDUINO LEONARDO",
+    "category": "Microcontrollers & Dev Boards",
+    "price": 2700,
+    "status": "متوفر"
+     },
+    {
+        "id": 15,
+        "name": "ARDUINO MICRO PRO ",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 1300,
+        "status": "متوفر"
+    },
+    {
+        "id": 16,
+        "name": "ESP 8266 WEMOS",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 800,
+        "status": "متوفر"
+    },
+    {
+        "id": 17,
+        "name": "ESP 8266 OLED DISPLAY",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 2900,
+        "status": "كمية محدودة"
+    },
+    {
+        "id": 17,
+        "name": "ESP 8266",
+        "category": "Microcontrollers & Dev Boards",
+        "price": 600,
+        "status": "غير متوفر"
     }
 ]
